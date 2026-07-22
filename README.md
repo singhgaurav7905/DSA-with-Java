@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
