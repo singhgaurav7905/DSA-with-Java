@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0066-plus-one) |
+| [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
