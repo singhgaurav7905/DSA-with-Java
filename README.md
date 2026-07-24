@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0389-find-the-difference) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
