@@ -7,25 +7,34 @@ class Solution {
         int[] maps1 = new int[26] ;
         int[] maps2 = new int[26] ;
 
-        for(char ch : s1.toCharArray()){
-            maps1[ch - 'a']++ ;
+        for(int i = 0 ; i < s1.length() ; i++){
+            maps1[s1.charAt(i) - 'a']++ ;
+            maps2[s2.charAt(i) - 'a']++ ;
         }
 
-        int left = 0 ;
-        for(int right = 0 ; right < s2.length() ; right++){
-            maps2[s2.charAt(right) - 'a']++ ;
-           
-           if(right - left + 1 > s1.length()){
-            maps2[s2.charAt(left) - 'a']-- ;
-            left++ ;
-           }
+        if(matches(maps1 , maps2)){
+            return true ;
+        }
 
-           if(right - left + 1 == s1.length()){
-           if( Arrays.equals(maps1 , maps2))
-               return true ;
-           }
+        for(int right = s1.length() ; right < s2.length() ; right++){
+            maps2[s2.charAt(right) - 'a']++ ;
+
+            maps2[s2.charAt(right - s1.length()) - 'a']-- ;
+
+            if(matches(maps1 , maps2)){
+                return true ;
+            }
         }
 
         return false ;
+    }
+
+    public Boolean matches(int[] maps1 , int[] maps2){
+        for(int i = 0 ; i < 26 ; i++){
+            if(maps1[i] != maps2[i]){
+                return false ;
+            }
+        }
+        return true ;
     }
 }
