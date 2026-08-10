@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0567-permutation-in-string) |
@@ -103,9 +105,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0992-subarrays-with-k-different-integers) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
