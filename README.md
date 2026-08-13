@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0304-range-sum-query-2d-immutable) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0523-continuous-subarray-sum) |
