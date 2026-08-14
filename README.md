@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0066-plus-one) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0978-longest-turbulent-subarray) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
