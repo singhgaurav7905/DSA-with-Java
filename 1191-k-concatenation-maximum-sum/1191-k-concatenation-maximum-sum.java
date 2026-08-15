@@ -11,17 +11,16 @@ class Solution {
     }
 
     public long kadanesoftwo(int[] arr){
-        int[] narr = new int[arr.length *2] ;
-
-        for(int i = 0 ; i < arr.length ; i++){
-            narr[i] = arr[i] ;
+        // int[] narr = new int[arr.length *2] ;
+        long currentmax = 0 ;
+        long maxsum = 0 ;
+        for(int i = 0 ; i < arr.length * 2 ; i++){
+            int num = arr[i % arr.length] ;
+            currentmax = Math.max(num , currentmax + num) ;
+            maxsum = Math.max(maxsum , currentmax) ;
         }
 
-        for(int i = 0 ; i < arr.length ; i++){
-            narr[i + arr.length] = arr[i] ;
-        }
-
-        return kadane(narr) ;
+        return maxsum ;
     }
     public int kConcatenationMaxSum(int[] arr, int k) {
         long sum = 0 ;
