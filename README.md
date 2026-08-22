@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0875-koko-eating-bananas) |
