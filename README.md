@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0066-plus-one) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0704-binary-search) |
