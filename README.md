@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0389-find-the-difference) |
