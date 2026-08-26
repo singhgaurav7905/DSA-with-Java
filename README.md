@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0978-longest-turbulent-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1191-k-concatenation-maximum-sum) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0560-subarray-sum-equals-k) |
