@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Prefix Sum
 |  |
 | ------- |
