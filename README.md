@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0389-find-the-difference](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0881-boats-to-save-people) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -246,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
