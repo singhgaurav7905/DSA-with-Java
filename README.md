@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
