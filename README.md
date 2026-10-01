@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/singhgaurav7905/DSA-with-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
